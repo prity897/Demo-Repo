@@ -1,0 +1,15 @@
+body {
+    background-color: #e0f7fa;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    color: #006064;
+}
+
+p {
+    color: #004d40;
+    font-size: 16px;
+}
